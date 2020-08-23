@@ -1,0 +1,6 @@
+framework module XBSTimer {
+  umbrella header "XBSTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}

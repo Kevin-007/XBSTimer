@@ -1,0 +1,6 @@
+framework module Pods_XBSTimer_Tests {
+  umbrella header "Pods-XBSTimer_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

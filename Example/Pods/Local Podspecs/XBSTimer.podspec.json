@@ -1,0 +1,22 @@
+{
+  "name": "XBSTimer",
+  "version": "0.1.0",
+  "summary": "A short description of XBSTimer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Aniyang/XBSTimer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Aniyang": "547238747@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Aniyang/XBSTimer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XBSTimer/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - XBSTimer (0.1.0)
+
+DEPENDENCIES:
+  - XBSTimer (from `../`)
+
+EXTERNAL SOURCES:
+  XBSTimer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XBSTimer: 70ed29113b42a026bbf08be2a8c0db4fb9c25c99
+
+PODFILE CHECKSUM: ef8cb8c1faf7a2a1f976ae0f9761251d17899166
+
+COCOAPODS: 1.9.1
